@@ -67,6 +67,7 @@ To run the program
  1. Go into the folder that the 3 files are in
  2. Right click and open terminal in the folder
  3. Type "sudo ./main"
+ 4. Make sure that the program chooses ens33 to run
 The GUI should now pop up
 Press the button to begin the packet sniffing
 Try opening some websites and coming back to check the terminal
